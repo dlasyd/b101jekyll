@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Awesome Site Title</title>
-    <description>Awesome site description here
+    <title>Business101.ru</title>
+    <description> Статьи о бизнесе
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 05 May 2018 21:27:25 +0300</pubDate>
-    <lastBuildDate>Sat, 05 May 2018 21:27:25 +0300</lastBuildDate>
+    <link>http://business101.ru/</link>
+    <atom:link href="http://business101.ru/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 05 May 2018 21:35:26 +0300</pubDate>
+    <lastBuildDate>Sat, 05 May 2018 21:35:26 +0300</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -26,8 +26,8 @@
 &lt;p&gt;Да, интернет-маркетинг сейчас стал преобладающим видом маркетинга, но это не значит, что вы можете спрятаться в сети тогда, когда дело доходит до обслуживания клиентов. Если у вас нет времени заниматься этим самостоятельно или нет средств на оплату постоянных сотрудников, наймите аутсорсеров, которые возьмут на себя заботу о положительном опыте общения ваших клиентов с вашей же компанией.&lt;/p&gt;
 </description>
         <pubDate>Fri, 10 Mar 2017 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/article/u6-horoshee-obsluzhivanie-kak-zalog-uspeha-biznesa</link>
-        <guid isPermaLink="true">http://localhost:4000/article/u6-horoshee-obsluzhivanie-kak-zalog-uspeha-biznesa</guid>
+        <link>http://business101.ru/article/u6-horoshee-obsluzhivanie-kak-zalog-uspeha-biznesa</link>
+        <guid isPermaLink="true">http://business101.ru/article/u6-horoshee-obsluzhivanie-kak-zalog-uspeha-biznesa</guid>
         
         
         <category>обслуживание клиентов</category>
@@ -56,8 +56,8 @@
 &lt;p&gt;Этот стиль управления хорошо работает в творческой среде и ситуациях, когда правильного шаблонного ответа попросту не существует. Например, при запуске и раскрутке стартапа. Чтобы подобный стиль управления оказался успешным, нужно еще на этапе найма тщательно подбирать свою команду и проверять уровни компетенции персонала, иначе неквалифицированные кадры погубят предприятие, а так же запастись терпением.&lt;/p&gt;
 </description>
         <pubDate>Thu, 09 Mar 2017 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/article/u6-5-stiley-upravleniya-biznesom-kakoy-iz-nih-vash</link>
-        <guid isPermaLink="true">http://localhost:4000/article/u6-5-stiley-upravleniya-biznesom-kakoy-iz-nih-vash</guid>
+        <link>http://business101.ru/article/u6-5-stiley-upravleniya-biznesom-kakoy-iz-nih-vash</link>
+        <guid isPermaLink="true">http://business101.ru/article/u6-5-stiley-upravleniya-biznesom-kakoy-iz-nih-vash</guid>
         
         
         <category>управление</category>
@@ -90,8 +90,8 @@
 &lt;p&gt;Успех не должен оставаться незамеченным. Каждый любит, когда его хвалят. А если хвалят в такой ответственный момент, то ценнее вдвойне. Обязательно отмечайте достижения своего персонала в процессе внедрения новых стратегий. Это покажет людям, что достигнуть поставленной цели вполне возможно и вдохновит их работать усерднее в заданном направлении.&lt;/p&gt;
 </description>
         <pubDate>Mon, 06 Mar 2017 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/article/u6-7-prostyh-shagov-po-uspeshnomu-vnedreniyu-novyh-strategiy</link>
-        <guid isPermaLink="true">http://localhost:4000/article/u6-7-prostyh-shagov-po-uspeshnomu-vnedreniyu-novyh-strategiy</guid>
+        <link>http://business101.ru/article/u6-7-prostyh-shagov-po-uspeshnomu-vnedreniyu-novyh-strategiy</link>
+        <guid isPermaLink="true">http://business101.ru/article/u6-7-prostyh-shagov-po-uspeshnomu-vnedreniyu-novyh-strategiy</guid>
         
         
         <category>инновации</category>
@@ -125,8 +125,8 @@
 &lt;p&gt;Зачастую черты характера и склонности, которые не нравятся в других людях, присущи нам самими и являются тем, что мы люто не любим в самих себе. Начните с себя! Проанализируйте, что конкретно вас раздражает в вашем оппоненте, ответьте на вопрос, свободны ли вы сами от этого греха? Если нет — отлично, у вас есть прекрасная база для постройки здоровых деловых отношений с неприятной вам личностью.&lt;/p&gt;
 </description>
         <pubDate>Fri, 03 Mar 2017 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/article/u6-8-sposobov-derzhat-sebya-professionalno-s-nepriyatnymi-lyudmi</link>
-        <guid isPermaLink="true">http://localhost:4000/article/u6-8-sposobov-derzhat-sebya-professionalno-s-nepriyatnymi-lyudmi</guid>
+        <link>http://business101.ru/article/u6-8-sposobov-derzhat-sebya-professionalno-s-nepriyatnymi-lyudmi</link>
+        <guid isPermaLink="true">http://business101.ru/article/u6-8-sposobov-derzhat-sebya-professionalno-s-nepriyatnymi-lyudmi</guid>
         
         
         <category>управление кадрами</category>
@@ -169,8 +169,8 @@
 &lt;p&gt;После внесения всех изменений, запаситесь терпением. Оно вам пригодится, чтобы не наломать дров и не испортить все, что вы сделали. Особенности функционирования поисковых систем таковы, что результаты вы сможете заметить не раньше чем через несколько месяцев. Будьте терпеливы и продолжайте действовать правильно. И все у вас получится!&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Mar 2017 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/article/u6-kak-spasti-neeffektivnuyu-marketingovuyu-kampaniyu-v-internete</link>
-        <guid isPermaLink="true">http://localhost:4000/article/u6-kak-spasti-neeffektivnuyu-marketingovuyu-kampaniyu-v-internete</guid>
+        <link>http://business101.ru/article/u6-kak-spasti-neeffektivnuyu-marketingovuyu-kampaniyu-v-internete</link>
+        <guid isPermaLink="true">http://business101.ru/article/u6-kak-spasti-neeffektivnuyu-marketingovuyu-kampaniyu-v-internete</guid>
         
         
         <category>сео</category>
@@ -208,8 +208,8 @@
 &lt;p&gt;Все мы очень не хотим передавать наши обязанности другим людям, ведь лучше нас никто, конечно же, не сделает. Это ошибочная практика. Многие предприниматели доводят себя до истощения, пытаясь объять необъятное, вместо того чтобы делегировать часть своих обязанностей. Помощник не только может привнести свой опыт и умения в ваш бизнес, но так же взять на себя те незначительные вещи, которые до этого вы делали сами: сортировать электронную почту, отвечать на незначительные послания, вести ежедневник, организовывать встречи и присматривать за работой офиса.&lt;/p&gt;
 </description>
         <pubDate>Mon, 27 Feb 2017 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/article/u6-10-sposobov-ostavatsya-sosredotochennym-na-vypolnyaemom-dele</link>
-        <guid isPermaLink="true">http://localhost:4000/article/u6-10-sposobov-ostavatsya-sosredotochennym-na-vypolnyaemom-dele</guid>
+        <link>http://business101.ru/article/u6-10-sposobov-ostavatsya-sosredotochennym-na-vypolnyaemom-dele</link>
+        <guid isPermaLink="true">http://business101.ru/article/u6-10-sposobov-ostavatsya-sosredotochennym-na-vypolnyaemom-dele</guid>
         
         
         <category>саморазвитие</category>
@@ -243,8 +243,8 @@
 &lt;p&gt;Когда все конечные сроки закончатся и вы вплотную приблизитесь к финальному подписанию документов, будьте готовы к тому, что работодатель может потребовать от подписания документов о неразглашении полученной информации о нюансах деятельности компании, а так же не распространять негативные отзывы о руководстве и предприятии. Не стоит артачиться, даже если вы считаете, что с вами поступили не лучшим образом. Не наживайте себе врагов, ведь о вас тоже могут пустить дурные слухи, которые помешают найти хорошую работу. Вспомните о заготовленной вами характеристике себя и предложите работодателю подписать их документы взамен на хорошее рекомендательное письмо. &lt;/p&gt;
 </description>
         <pubDate>Fri, 24 Feb 2017 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/article/u6-chto-nuzhno-znat-i-kak-sebya-vesti-v-situacii-sokrashcheniya-kadrov-na-predpriyatii</link>
-        <guid isPermaLink="true">http://localhost:4000/article/u6-chto-nuzhno-znat-i-kak-sebya-vesti-v-situacii-sokrashcheniya-kadrov-na-predpriyatii</guid>
+        <link>http://business101.ru/article/u6-chto-nuzhno-znat-i-kak-sebya-vesti-v-situacii-sokrashcheniya-kadrov-na-predpriyatii</link>
+        <guid isPermaLink="true">http://business101.ru/article/u6-chto-nuzhno-znat-i-kak-sebya-vesti-v-situacii-sokrashcheniya-kadrov-na-predpriyatii</guid>
         
         
         <category>увольнение</category>
@@ -276,8 +276,8 @@
 &lt;p&gt;Даже если вы не особо сёрфите в интернете, то электронная почта у вас наверняка есть. И она используется по назначению для связи с клиентами, чтобы держать их в курсе новостей вашего бизнеса. Наличие веб-сайта позволяет не только лучше организовать эту обратную связь, но так же получить новые контакты благодаря полезной информации на ресурсе, количество и качество которой будет больше после регистрации. Создайте сайт, которому пользователи будут доверять, а затем используйте его для пополнения своей адресной книги. Наряду непосредственно с веб-сайтом этот список станет одним из сильнейших инструментов продаж. &lt;/p&gt;
 </description>
         <pubDate>Wed, 22 Feb 2017 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/article/u6-5-prichin-nakonec-obzavestis-saytom-dlya-biznesa</link>
-        <guid isPermaLink="true">http://localhost:4000/article/u6-5-prichin-nakonec-obzavestis-saytom-dlya-biznesa</guid>
+        <link>http://business101.ru/article/u6-5-prichin-nakonec-obzavestis-saytom-dlya-biznesa</link>
+        <guid isPermaLink="true">http://business101.ru/article/u6-5-prichin-nakonec-obzavestis-saytom-dlya-biznesa</guid>
         
         
         <category>интернет-магазин</category>
@@ -308,8 +308,8 @@
 &lt;p&gt;Как видите, мы смогли предложить целых пять действенных способов расслабиться без алкоголя. Но если вы действительно решите отказаться от своей пагубной привычки, будет достаточно только оглянуться вокруг себя, и вы увидите массу других возможностей, которые мы не перечислили. &lt;/p&gt;
 </description>
         <pubDate>Mon, 20 Feb 2017 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/article/u6-5-sposobov-rasslabitsya-bez-alkogolya</link>
-        <guid isPermaLink="true">http://localhost:4000/article/u6-5-sposobov-rasslabitsya-bez-alkogolya</guid>
+        <link>http://business101.ru/article/u6-5-sposobov-rasslabitsya-bez-alkogolya</link>
+        <guid isPermaLink="true">http://business101.ru/article/u6-5-sposobov-rasslabitsya-bez-alkogolya</guid>
         
         
         <category>отдых</category>
@@ -341,8 +341,8 @@
 &lt;p&gt;Недостаток у виртуального помощника по факту только один — вам придется доверить личную и профессиональную информацию незнакомому человеку, которого вы, возможно, никогда в глаза не видели и не увидите. Бороться с этим можно двумя способами. Первый — методом проб и ошибок, проверяя кандидатов менее сложными и не слишком значимыми задачами, чтобы возможные потери не оказались для вас фатальными. Второй — обратиться в агентство, специализирующееся на предоставлении таких видов услуг. &lt;/p&gt;
 </description>
         <pubDate>Fri, 17 Feb 2017 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/article/u6-autsorsing-dlya-startapa-kak-sredstvo-vyzhivaniya-biznesa</link>
-        <guid isPermaLink="true">http://localhost:4000/article/u6-autsorsing-dlya-startapa-kak-sredstvo-vyzhivaniya-biznesa</guid>
+        <link>http://business101.ru/article/u6-autsorsing-dlya-startapa-kak-sredstvo-vyzhivaniya-biznesa</link>
+        <guid isPermaLink="true">http://business101.ru/article/u6-autsorsing-dlya-startapa-kak-sredstvo-vyzhivaniya-biznesa</guid>
         
         
         <category>аутсорсинг</category>
