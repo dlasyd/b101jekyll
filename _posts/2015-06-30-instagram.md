@@ -1,5 +1,5 @@
 ---
-permalink: null
+permalink: /article/u6-instagram-dlya-biznesa-neskolko-sovetov-novichku
 excerpt: "<p>Некоторые виды бизнеса вполне могут существовать без социальных сетей.
   Вероятно, до&nbsp;недавнего времени вы&nbsp;думали точно также о&nbsp;своем предприятии.
   И&nbsp;тут вдруг осознали, что нужно подключить Instagram для решения определенных
