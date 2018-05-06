@@ -15,16 +15,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://business101.ru" # the base hostname & protocol for your site
 paginate: 5 # The number of posts to show per page on your homepage
 
-name: 'Your Name'
-bio: >
-  Mea suas vituperatoribus et, virtute corpora quaestio cum ut.
-  Ne solet nostrum complectitur pri, vis ut inani populo.
-author_image: "/assets/images/author.jpg"
-twitter_username: jekyllrb
-github_username:  jekyll
-
 # Google Analytics
-analytics_id: ""
+analytics_id: "UA-2429493-2"
 
 # Build settings
 markdown: kramdown
